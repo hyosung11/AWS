@@ -28,13 +28,23 @@
 | all risk      | only config & code  |
 
 ### Six Advantages and Benefits of Cloud Computing [12:30]
+1. Trade capital expense for variable expense.
+2. Benefit from massive economies of scale
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop spending money on running and maintaining data centers
+6. Go global in minutes
 ![sixpros](/images/sixpros.png)
 
+### Types of Cloud Computing [15:10]
+- SaaS: Software as a Service (for customers)
+- PaaS: Platform as a Service (for developers)
+- IaaS: Infrastructure as a Service (for admins)
+![types of cloud computing](/images/tcc.png)
 
+### Cloud Computing Deployment Models [17:00]
 
-
-- Types of Cloud Computing
-- Cloud Computing Deployment Models
+![deployment models](/images/ccdm.png)
 
 ### AWS Global Infrastructure
 - Map Overview
