@@ -27,8 +27,12 @@
 | pay/rent      | other pays         |
 | all risk      | only config & code  |
 
+### Six Advantages and Benefits of Cloud Computing [12:30]
+![sixpros](/images/sixpros.png)
 
-- Six Advantages and Benefits of Cloud Computing
+
+
+
 - Types of Cloud Computing
 - Cloud Computing Deployment Models
 
