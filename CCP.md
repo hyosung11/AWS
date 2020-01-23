@@ -20,11 +20,12 @@
 ### What is Cloud Computing?
 - the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
-| On-Premise    | Cloud Providers |
-|---------------|-----------------|
-| own services  | other owner     |
-| hire IT       |    other IT     |  
-| pay/rent      | other pays      |
+| On-Premise    | Cloud Providers    |
+|---------------|--------------------|
+| own services  | other owner        |
+| hire IT       |    other IT        |  
+| pay/rent      | other pays         |
+| all risk      | only config & code  |
 
 
 - Six Advantages and Benefits of Cloud Computing
