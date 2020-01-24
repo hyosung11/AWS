@@ -59,10 +59,15 @@
 ![regions](/images/regions.png)
 
 - Availability Zones
+![availability-zones](/images/az.png)
 
 
 - Edge Locations
+![edge locations](/images/edge-locations.png)
+
+
 - GovCloud Regions
+![GovCloud](/images/govcloud.png)
 
 ### Getting Started
 - Creating an AWS Account
