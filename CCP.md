@@ -68,12 +68,13 @@
 ![GovCloud](/images/govcloud.png)
 
 ## Getting Started [29:21]
-### Creating an AWS Account
-### Billing Preferences, Budgets and Alarms
-### Change IAM Users Sign-in Link
-### Activate MFA on Root Account
-### Create individual IAM user
-### Set a password policy
+- Creating an AWS Account
+
+- Billing Preferences, Budgets and Alarms [33:00]
+- Change IAM Users Sign-in Link
+- Activate MFA on Root Account
+- Create individual IAM user
+- Set a password policy
 
 
 ---
