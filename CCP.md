@@ -34,22 +34,33 @@
 4. Increase speed and agility
 5. Stop spending money on running and maintaining data centers
 6. Go global in minutes
+
 ![sixpros](/images/sixpros.png)
 
 ### Types of Cloud Computing [15:10]
 - SaaS: Software as a Service (for customers)
 - PaaS: Platform as a Service (for developers)
 - IaaS: Infrastructure as a Service (for admins)
+
 ![types of cloud computing](/images/tcc.png)
 
 ### Cloud Computing Deployment Models [17:00]
+- Cloud: fully utilizing cloud computing
+- Hybrid: using both cloud and on-premise
+- On-Premise: deploying resources on-premises, using virtualization and resource management tools, is sometimes called "private cloud".
 
 ![deployment models](/images/ccdm.png)
 
-### AWS Global Infrastructure
+### AWS Global Infrastructure [19:38]
 - Map Overview
+![global-infrastructure](/images/global-infrastructure.png)
+
 - Regions
+![regions](/images/regions.png)
+
 - Availability Zones
+
+
 - Edge Locations
 - GovCloud Regions
 
